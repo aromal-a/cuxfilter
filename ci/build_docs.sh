@@ -36,3 +36,12 @@ mv _html/* "${RAPIDS_DOCS_DIR}/cuxfilter/html"
 popd
 
 RAPIDS_VERSION_NUMBER="$(rapids-version-major-minor)" rapids-upload-docs
+temp:c/uno-media: {
+Media-call : [liver, aliver- [search-true], dicto- references: ]  
+}Heal-media, Agency(
+
+'xv-coov- crook-via', 'via-corrector', 'coov-letter' ,'letter-van', 'van-stops'
+
+
+
+)
